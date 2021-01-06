@@ -10,6 +10,6 @@
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BraveLittleTodoList&repo=covidtracker)](https://github.com/BraveLittleTodoList/covidtracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BraveLittleTodoList&repo=BraveLittleCovidTracker)](https://github.com/BraveLittleTodoList/BraveLittleCovidTracker)
 
 
