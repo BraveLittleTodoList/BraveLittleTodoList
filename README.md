@@ -8,6 +8,6 @@
 
 - ⚡ Fun fact **"BraveLittleTodoList" is named after the band "Brave Little Abacus"**
 
-<br> 
 
-[![ReadMe Card](https://github.com/BraveLittleTodoList/covidtracker)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/BraveLittleTodoList/covidtracker)
