@@ -2,9 +2,9 @@
 
 <h3 align="center">Brave Little Developer in this Brave New Web</h3>
 
-- 🌱 I’m currently learning **Everthing**
+- 🌱 I’m currently learning C# & .NET
 
-- 🥅 Goals for 2021: More Freelance Work!
+- 🥅 Goals for 2022: To be the best, like no one ever was.
 
 - ⚡ Fun fact **"BraveLittleTodoList" is named after the band "Brave Little Abacus"**
 
